@@ -1,0 +1,15 @@
+C:\Users\borges\Downloads\TESTE PLSQL\Questao1\bin\Release\net6.0\Questao1.exe
+C:\Users\borges\Downloads\TESTE PLSQL\Questao1\bin\Release\net6.0\Questao1.deps.json
+C:\Users\borges\Downloads\TESTE PLSQL\Questao1\bin\Release\net6.0\Questao1.runtimeconfig.json
+C:\Users\borges\Downloads\TESTE PLSQL\Questao1\bin\Release\net6.0\Questao1.dll
+C:\Users\borges\Downloads\TESTE PLSQL\Questao1\bin\Release\net6.0\Questao1.pdb
+C:\Users\borges\Downloads\TESTE PLSQL\Questao1\obj\Release\net6.0\Questao1.csproj.AssemblyReference.cache
+C:\Users\borges\Downloads\TESTE PLSQL\Questao1\obj\Release\net6.0\Questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borges\Downloads\TESTE PLSQL\Questao1\obj\Release\net6.0\Questao1.AssemblyInfoInputs.cache
+C:\Users\borges\Downloads\TESTE PLSQL\Questao1\obj\Release\net6.0\Questao1.AssemblyInfo.cs
+C:\Users\borges\Downloads\TESTE PLSQL\Questao1\obj\Release\net6.0\Questao1.csproj.CoreCompileInputs.cache
+C:\Users\borges\Downloads\TESTE PLSQL\Questao1\obj\Release\net6.0\Questao1.dll
+C:\Users\borges\Downloads\TESTE PLSQL\Questao1\obj\Release\net6.0\refint\Questao1.dll
+C:\Users\borges\Downloads\TESTE PLSQL\Questao1\obj\Release\net6.0\Questao1.pdb
+C:\Users\borges\Downloads\TESTE PLSQL\Questao1\obj\Release\net6.0\Questao1.genruntimeconfig.cache
+C:\Users\borges\Downloads\TESTE PLSQL\Questao1\obj\Release\net6.0\ref\Questao1.dll

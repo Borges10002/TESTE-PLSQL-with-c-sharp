@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# IDE0002: Simplificar o Acesso de Membro
+dotnet_diagnostic.IDE0002.severity = error
